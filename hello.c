@@ -16,7 +16,7 @@ int main(){
 
 		int num1,num2,sum;
 		printf("Enter two number: ");
-		scanf("%d %d", &num1, &num2);
+		scanf("%d %d", &num1, &num2); //read two number
 		sum = num1 + num2;
 		printf("sum is = %d\n", sum);
 
